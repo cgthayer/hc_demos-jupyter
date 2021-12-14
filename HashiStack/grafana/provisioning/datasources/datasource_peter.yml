@@ -18,6 +18,6 @@ datasources:
       - datasourceUid: tempo
         matcherRegex: (?:traceID|trace_id)=(\w+)
         name: TraceID
-        url: 35084{__value.raw}
+        url: 25861{__value.raw}
 
 
